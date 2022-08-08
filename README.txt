@@ -1,1 +1,2 @@
-"Hello Git and GitHub" 
+Test project for exploring git and github. No code here
+
